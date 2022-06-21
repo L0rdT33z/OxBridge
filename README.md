@@ -1,2 +1,2 @@
 # OxBridge
-Clone of oxybridge
+Clone of OxyBridge
